@@ -4,7 +4,8 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Websites
-- [Inbox Zero](http://www.43folders.com/izero): Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty -- or almost empty -- at all times. Inbox Zero was developed by productivity expert Merlin Mann. 
+- [Inbox Zero](http://www.43folders.com/izero): Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty -- or almost empty -- at all times. Inbox Zero was developed by productivity expert Merlin Mann.
+- [Lifehacker](http://lifehacker.com/): The go-to blog for tips, tricks, and downloads for getting things done.
 
 ## Online Courses
 
