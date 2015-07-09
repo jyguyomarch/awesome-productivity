@@ -4,8 +4,9 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Websites
-- [Inbox Zero](http://www.43folders.com/izero): Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty -- or almost empty -- at all times. Inbox Zero was developed by productivity expert Merlin Mann.
-- [Lifehacker](http://lifehacker.com/): The go-to blog for tips, tricks, and downloads for getting things done.
+- [Inbox Zero](http://www.43folders.com/izero) – rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
+- [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
+- [Pomodoro Technique](http://pomodorotechnique.com/) – Slice your tasks in 25 minute packages and get more done in less time.
 
 ## Online Courses
 
@@ -17,8 +18,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Task Management
 
-- [Any.do](http://www.any.do/):
-- [HabitRPG](https://habitrpg.com/):
-- [Remember the Milk](https://www.rememberthemilk.com):
-- [Todoist](https://todoist.com/):
-- [Wunderlist](https://www.wunderlist.com/):
+- [Any.do](http://www.any.do/)
+- [HabitRPG](https://habitrpg.com/) – Complete your real life daily goals in a role play game.
+- [Remember the Milk](https://www.rememberthemilk.com)
+- [Todoist](https://todoist.com/)
+- [Wunderlist](https://www.wunderlist.com/)
+- [Trello](https://trello.com) – Kanban method task board.
