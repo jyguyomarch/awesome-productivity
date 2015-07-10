@@ -16,6 +16,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools and Apps
 
+### Note Management
+
+- [Evernote](https://evernote.com/)
+- [Google Keep](http://www.google.com/keep/)
+- [OneNote](https://www.onenote.com/) 
+
 ### Task Management
 
 - [Any.do](http://www.any.do/)
