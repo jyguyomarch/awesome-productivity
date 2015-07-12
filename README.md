@@ -17,6 +17,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools and Apps
 
+### File Management
+
+- [Box](https://www.box.com)
+- [Dropbox](https://www.dropbox.com)
+- [Google Drive](https://www.google.ca/drive/)
+- [OneDrive](https://onedrive.live.com)
+
 ### Note Management
 
 - [Evernote](https://evernote.com/)
