@@ -3,6 +3,16 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Content
+
+- [Websites](#websites)
+- [Online Courses](#online-courses)
+- [Books](#books)
+- [Tools and Apps](#tools-and-apps)
+  - [File Management](#file-management)
+  - [Note Management](#note-management)
+  - [Task Management](#task-management)
+
 ## Websites
 - [Inbox Zero](http://www.43folders.com/izero) – rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
 - [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
