@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
 - [Pomodoro Technique](http://pomodorotechnique.com/) – Slice your tasks in 25 minute packages and get more done in less time.
 - [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
+- [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now. 
 
 ## Online Courses
 
