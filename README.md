@@ -47,7 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Task Management
 
 - [Any.do](http://www.any.do/)
-- [HabitRPG](https://habitrpg.com/) – Complete your real life daily goals in a role play game.
+- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [Remember the Milk](https://www.rememberthemilk.com)
 - [Todoist](https://todoist.com/)
 - [Wunderlist](https://www.wunderlist.com/)
