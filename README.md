@@ -33,10 +33,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### File Management
 
-- [Box](https://www.box.com)
-- [Dropbox](https://www.dropbox.com)
-- [Google Drive](https://www.google.ca/drive/)
-- [OneDrive](https://onedrive.live.com)
+- [Box](https://www.box.com) – Very good cloud storage solution for business customers.
+- [Dropbox](https://www.dropbox.com) – Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
+- [Google Drive](https://www.google.ca/drive/) – Cloud storage solution deeply integrated in the Google ecosystem.
+- [OneDrive](https://onedrive.live.com) – Best cloud storage solution for Windows users.
 
 ### Note Management
 
