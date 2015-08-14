@@ -46,9 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Task Management
 
-- [Any.do](http://www.any.do/)
+- [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
-- [Remember the Milk](https://www.rememberthemilk.com)
-- [Todoist](https://todoist.com/)
-- [Wunderlist](https://www.wunderlist.com/)
+- [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks. 
+- [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
+- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 - [Trello](https://trello.com) – Kanban method task board.
