@@ -40,9 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Note Management
 
-- [Evernote](https://evernote.com/)
-- [Google Keep](http://www.google.com/keep/)
-- [OneNote](https://www.onenote.com/) 
+- [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
+- [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
+- [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
 
 ### Task Management
 
