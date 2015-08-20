@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
+  - [Task Automation](#task-automation)
 
 ## Websites
 - [Inbox Zero](http://www.43folders.com/izero) – rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
@@ -54,3 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
 - [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 - [Trello](https://trello.com) – Kanban method task board.
+
+### Task Automation
+ - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
+ - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
