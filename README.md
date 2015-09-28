@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Trello](https://trello.com) – Kanban method task board.
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
+- [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 
 ### Task Automation
  - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
