@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
+  - [Habit Trackers](#habit-trackers)
   - [Task Automation](#task-automation)
 
 ## Websites
@@ -51,7 +52,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Task Management
 
 - [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
-- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
 - [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
@@ -59,6 +59,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
+
+### Habit Trackers
+- [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
+- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
+- [HabitBull](http://www.habitbull.com/) - Premium habit tracker
+
 
 ### Task Automation
  - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
