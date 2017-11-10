@@ -40,7 +40,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Drive](https://www.google.ca/drive/) – Cloud storage solution deeply integrated in the Google ecosystem.
 - [OneDrive](https://onedrive.live.com) – Best cloud storage solution for Windows users.
 - [Mega](https://mega.nz/) – A very generous (50G from the get go) and highly secure cloud storage solution.
-- [Copy](https://www.copy.com) – Generous amount of free space and very complete business services.
 
 ### Note Management
 
