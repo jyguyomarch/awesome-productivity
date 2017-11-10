@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
+  - [Habit Trackers](#habit-trackers)
   - [Task Automation](#task-automation)
 
 ## Websites
@@ -40,18 +41,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Drive](https://www.google.ca/drive/) – Cloud storage solution deeply integrated in the Google ecosystem.
 - [OneDrive](https://onedrive.live.com) – Best cloud storage solution for Windows users.
 - [Mega](https://mega.nz/) – A very generous (50G from the get go) and highly secure cloud storage solution.
-- [Copy](https://www.copy.com) – Generous amount of free space and very complete business services.
 
 ### Note Management
 
 - [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
 - [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
 - [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
+- [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
 
 ### Task Management
 
 - [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
-- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
 - [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
@@ -60,9 +60,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
+- [topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+
+### Habit Trackers
+- [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
+- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
+- [HabitBull](http://www.habitbull.com/) - Premium habit tracker
 
 ### Task Automation
  - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
  - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
  - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
  - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+ - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
+ - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
