@@ -59,13 +59,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
+- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 
 ### Habit Trackers
 - [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker
-
 
 ### Task Automation
  - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
