@@ -54,19 +54,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Task Management
 
-- [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).	Anydo
-- [Hitask](https://hitask.com) – Easy Project and Task Management for Teams	Hitask
-- [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.	OmniFocus
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.	Pomolectron
-- [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.	Remember the Milk
-- [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.	Taskade
-- [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.	Taskwarrior
-- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.	Timing
-- [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.	Todo
-- [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.	Todoist
-- [Topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.	Topydo
-- [Trello](https://trello.com) – Kanban method task board.	Trello
-- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.	Wunderlist
+- [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
+- [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
+- [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+- [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
+- [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.
+- [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
+- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
+- [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
+- [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
+- [Topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+- [Trello](https://trello.com) – Kanban method task board.
+- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 
 ### Habit Trackers
 
