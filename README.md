@@ -17,13 +17,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Websites
 
+- [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) – Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
+- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – A tutorial on how to implement GTD with [Remember the Milk](https://www.rememberthemilk.com).
 - [Inbox Zero](http://www.43folders.com/izero) – Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
 - [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
 - [Pomodoro Technique](http://pomodorotechnique.com/) – Slice your tasks in 25 minute packages and get more done in less time.
-- [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now.
-- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – A tutorial on how to implement GTD with [Remember the Milk](https://www.rememberthemilk.com).
-- [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) – Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
+- [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 
 ## Online Courses
 
@@ -67,8 +67,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
 - [Topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) – Kanban method task board.
-- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
+- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 
 ### Habit Trackers
 
@@ -79,9 +79,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Task Automation
 
+- [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
+- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
+- [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
-- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
-- [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
-- [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
