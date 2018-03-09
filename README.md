@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now.
 - [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
+- [Zen Habits](https://zenhabits.net/) – Blog by Leo Babauta with topics such as simplifying life.
 
 ## Online Courses
 
