@@ -52,9 +52,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
 - [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
+- [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
-- [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+
 
 ### Task Management
 
