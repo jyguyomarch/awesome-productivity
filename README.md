@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
+- [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 ### Task Management
 
