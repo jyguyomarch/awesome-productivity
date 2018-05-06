@@ -33,7 +33,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
-- [The Super Student Roadmap](http://thestudentpower.com/subscribe/) (free, but requires subscribing to a mailing list) by John Ramos – An excellent book dedicated to students who want to boost their producivity.
 
 ## Tools and Apps
 
