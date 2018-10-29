@@ -89,3 +89,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+
+### Password Manager
+- [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
