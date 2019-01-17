@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Task Management
 
+- [Amazing Marvin](https://www.amazingmarvin.com/) – Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
 - [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
