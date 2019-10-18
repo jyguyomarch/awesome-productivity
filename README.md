@@ -29,6 +29,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Online Courses
 
+- [freeCodeCamp](https://www.freecodecamp.org/) - Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
+- [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want.
+- [SoloLearn](https://www.sololearn.com/) - Learn to code for free.
+
 ## Books
 
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
