@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) by Cal Newport - Deep work is the ability to focus without distraction on a cognitively demanding task.
 
 ## Tools and Apps
 
