@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Airtable](https://airtable.com/) – Mix of spreadsheet and database to help organize work.
 - [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
+- [GitHub Projects](https://github.com/features/project-management/) – A lesser known feature of GitHub, makes it easy to tie your project management process to your code.
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
