@@ -34,6 +34,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
+- [The End of Procrastination](https://procrastination.com/book) by Petr Ludwig & Adela Schicker - How to take control of your time and stop procrastinating.
+- [The Way We're Working Isn't Working](https://www.amazon.com/Way-Were-Working-Isnt-Performance/dp/1451610262) by Tony Shwartz - How to spend your energy effective and stay foсuced and productive over time.
 
 ## Tools and Apps
 
