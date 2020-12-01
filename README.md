@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
 - [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
+- [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 
 
 ### Task Management
