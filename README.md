@@ -53,11 +53,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
 - [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
-- [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+- [Simplenote](https://simplenote.com/) – Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
-- [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
-- [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
-
+- [WorkFlowy](https://workflowy.com/) – Web-based outlining application for nested bulletin lists.
+- [Notion](https://www.notion.so/) – An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 
 ### Task Management
 
@@ -67,32 +66,32 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 - [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
-- [Topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+- [Topydo](https://www.topydo.org) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) – Kanban method task board.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 
 ### Habit Trackers
 
-- [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
+- [everydayCheck](https://everydaycheck.com) – Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
-- [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
-- [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
+- [HabitBull](http://www.habitbull.com/) – Premium habit tracker.
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) – An Android app for creating and maintaining good habits.
+- [Waka Time](https://wakatime.com/) –  Open source plugin for knowing exactly how long you spend coding.
 
 ### Task Automation
 
-- [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
+- [AutoIt](https://www.autoitscript.com/) – Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
-- [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
+- [Qbserve](https://qotoqot.com/qbserve/) – Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
 
