@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Task Management](#task-management)
   - [Habit Trackers](#habit-trackers)
   - [Task Automation](#task-automation)
+  - [Miscellaneous](#miscellaneous)
 
 ## Websites
 
@@ -97,3 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Knowledge Management
 
 - [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
+
+### Miscellaneous
+
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
