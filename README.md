@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now.
 - [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) – Blog by Leo Babauta with topics such as simplifying life.
+- [ShortLib](https://shortlib.com/) - Collection of hundreds of shortcuts for Windows, Mac and Linux.
 
 ## Online Courses
 
@@ -55,10 +56,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
+- [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 
 
 ### Task Management
 
+- [Airtable](https://airtable.com/) – Mix of spreadsheet and database to help organize work.
 - [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
@@ -81,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+- [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 
 ### Task Automation
 
@@ -90,6 +94,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+
+### Knowledge Management
+
+- [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
 
 ### Miscellaneous
 
