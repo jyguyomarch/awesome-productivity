@@ -79,7 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
-- [Topydo](https://www.topydo.org) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+- [Topydo](https://github.com/topydo/topydo) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) – Kanban method task board.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
