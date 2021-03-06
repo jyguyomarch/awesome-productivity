@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GitHub Projects](https://github.com/features/project-management/) – A lesser known feature of GitHub, makes it easy to tie your project management process to your code.
 - [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
+- [Microsoft To Do](https://todo.microsoft.com/tasks/) – Microsoft cloud-based task management application based on Wunderlist technology.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
@@ -82,7 +83,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Topydo](https://github.com/topydo/topydo) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) – Kanban method task board.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
-- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
 
 ### Habit Trackers
 
