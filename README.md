@@ -81,6 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Trello](https://trello.com) – Kanban method task board.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
+- [Procezo](https://procezo.com) - A free realtime tool with a mix of kanban, list, gantt view and insights to manage tasks.
 
 ### Habit Trackers
 
