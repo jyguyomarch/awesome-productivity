@@ -14,6 +14,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Task Management](#task-management)
   - [Habit Trackers](#habit-trackers)
   - [Task Automation](#task-automation)
+  - [Password Manager](#password-manager)
+  - [Knowledge Management](#knowledge-management)
   - [Miscellaneous](#miscellaneous)
 
 ## Websites
