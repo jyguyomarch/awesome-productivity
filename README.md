@@ -27,7 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now.
 - [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) – Blog by Leo Babauta with topics such as simplifying life.
-- [ShortLib](https://shortlib.com/) - Collection of hundreds of shortcuts for Windows, Mac and Linux.
+- [ShortLib](https://shortlib.com/) – Collection of hundreds of shortcuts for Windows, Mac and Linux.
 
 ## Online Courses
 
@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
-- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) by Cal Newport - Deep work is the ability to focus without distraction on a cognitively demanding task.
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) by Cal Newport – Deep work is the ability to focus without distraction on a cognitively demanding task.
 
 ## Tools and Apps
 
@@ -101,12 +101,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Password Manager
 
-- [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
+- [LastPass](https://lastpass.com) – A freemium password manager that stores encrypted passwords online.
 
 ### Knowledge Management
 
-- [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
+- [Obie.ai](https://obie.ai/) – AI platform that brings all knowledge and documentation into one spot.
 
 ### Miscellaneous
 
-- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
+- [ShareX](https://getsharex.com/) – Screen capture, file sharing and productivity tool.
