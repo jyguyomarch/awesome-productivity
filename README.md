@@ -45,12 +45,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Drive](https://www.google.ca/drive/) – Cloud storage solution deeply integrated in the Google ecosystem.
 - [OneDrive](https://onedrive.live.com) – Best cloud storage solution for Windows users.
 - [Mega](https://mega.nz/) – A very generous (50G from the get go) and highly secure cloud storage solution.
+- [Nextcloud](https://nextcloud.com) – The self-hosted productivity platform that keeps you in control.
 
 ### Note Management
 
 - [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
 - [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
+- [Joplin](https://joplinapp.org/) – A note taking and to-do application with synchronization capabilities.
 - [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
 - [Simplenote](https://simplenote.com/) – Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
