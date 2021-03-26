@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 - [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
+- [Tinido](https://tinido.com/) - A beautiful task manager app showing your activity as GitHub contribution calendar.
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
 - [Topydo](https://github.com/topydo/topydo) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
