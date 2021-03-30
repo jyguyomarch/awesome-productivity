@@ -110,6 +110,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Obie.ai](https://obie.ai/) – AI platform that brings all knowledge and documentation into one spot.
 
+### Productivity
+ - [YAPA-2](https://github.com/YetAnotherPomodoroApp/YAPA-2) - YAPA-2 is minimalistic desktop timer app for Pomodoro Technique users.
+
 ### Miscellaneous
 
 - [ShareX](https://getsharex.com/) – Screen capture, file sharing and productivity tool.
