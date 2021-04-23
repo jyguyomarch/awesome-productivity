@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Topydo](https://github.com/topydo/topydo) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) – Kanban method task board.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
+- [Timpler](https://timpler.com/) - Simple and powerful tasks and habits tracking app.
 
 ### Habit Trackers
 
