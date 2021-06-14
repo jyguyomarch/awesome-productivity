@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Simplenote](https://simplenote.com/) – Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) – Web-based outlining application for nested bulletin lists.
+- [Nota](https://nota.md) — Pro writing app designed for local Markdown files.
 
 ### Task Management
 
