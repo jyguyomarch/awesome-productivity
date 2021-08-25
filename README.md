@@ -109,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Knowledge Management
 
 - [Obie.ai](https://obie.ai/) – AI platform that brings all knowledge and documentation into one spot.
+- [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
 
 ### Miscellaneous
 
