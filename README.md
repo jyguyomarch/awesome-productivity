@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Password Manager
 
 - [LastPass](https://lastpass.com) – A freemium password manager that stores encrypted passwords online.
+- [Passky](https://github.com/Rabbit-Company) - Simple, modern and open source password manager.
 
 ### Knowledge Management
 
