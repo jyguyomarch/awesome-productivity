@@ -53,15 +53,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Note Management
 
 - [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
-- [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
-- [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
+- [Google Keep](http://www.google.com/keep/) – A nice and simple note management system tightly integrated with Google products.
+- [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking application for Markdown lovers.
 - [Joplin](https://joplinapp.org/) – A note taking and to-do application with synchronization capabilities.
 - [Notion](https://www.notion.so/) – An all-in-one very customizable workspace for notes, tasks, wikis and lists.
-- [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
-- [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
+- [OneNote](https://www.onenote.com/) – Very good note management solution, but best for Windows users.
+- [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop application based on Electron.
 - [Simplenote](https://simplenote.com/) – Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
-- [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
-- [WorkFlowy](https://workflowy.com/) – Web-based outlining application for nested bulletin lists.
+- [Standard Notes](https://standardnotes.org/) – A simple and private notes application.
+- [WorkFlowy](https://workflowy.com/) – Outlining application for nested bulleted lists.
 
 ### Task Management
 
