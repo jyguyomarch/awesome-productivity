@@ -44,7 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### File Management
 
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
-- [Dropbox](https://www.dropbox.com) - Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
+- [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) - Cloud storage solution deeply integrated in the Google ecosystem.
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [Mega](https://mega.nz/) - A very generous (50G from the get go) and highly secure cloud storage solution.
@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hitask](https://hitask.com) - Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) - Kanban method task board with Pomodoro technique.
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
-- [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for Mac OS X and iOS.
+- [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
