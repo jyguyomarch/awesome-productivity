@@ -3,7 +3,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table of Content
+## Contents
 
 - [Websites](#websites)
 - [Online Courses](#online-courses)
