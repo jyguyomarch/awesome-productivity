@@ -79,6 +79,7 @@
 - [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
 - [Topydo](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) - Kanban method task board.
+- [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
 ### Habit Trackers
