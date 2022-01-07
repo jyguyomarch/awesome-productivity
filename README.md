@@ -72,6 +72,7 @@
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
 - [Taskwarrior](http://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
+- [Timely](https://memory.ai/timely) - Automatic time tracking software. Get a flawless digital record of all project and team time, all without the hassle of manual timers and note taking.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 - [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
