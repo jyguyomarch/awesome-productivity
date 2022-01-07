@@ -52,6 +52,7 @@
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 - [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 - [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
+- [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 - [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
