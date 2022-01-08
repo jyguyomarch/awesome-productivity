@@ -90,6 +90,7 @@
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
+- [Emoji Log](https://emojilog.rosano.ca) -  Non-streak emoji-based tracker for arbitrary things.
 
 ### Task Automation
 
