@@ -85,6 +85,7 @@
 
 ### Habit Trackers
 
+- [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
