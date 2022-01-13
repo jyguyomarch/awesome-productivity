@@ -41,9 +41,10 @@
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
 - [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) - Cloud storage solution deeply integrated in the Google ecosystem.
-- [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [Mega](https://mega.nz/) - A very generous (50G from the get go) and highly secure cloud storage solution.
 - [Nextcloud](https://nextcloud.com) - The self-hosted productivity platform that keeps you in control.
+- [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
+- [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 
 ### Note Management
 
