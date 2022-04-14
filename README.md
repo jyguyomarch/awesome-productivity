@@ -118,3 +118,5 @@
 ### Miscellaneous
 
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
+- [Espanso](https://espanso.org/) - A cross platform text expander.
+- [Quick Look](https://github.com/QL-Win/QuickLook) - Allows the peeking of a file content in lightning speed by just pressing the Space key. 
