@@ -114,6 +114,7 @@
 
 - [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
+- [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 
 ### Miscellaneous
 
