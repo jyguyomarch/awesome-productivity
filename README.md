@@ -114,6 +114,7 @@
 
 - [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
+- [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden. 
 
 ### Miscellaneous
 
