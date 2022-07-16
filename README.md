@@ -108,6 +108,7 @@
 ### Password Manager
 
 - [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
+- [KeePass](https://keepass.info/) - A free, open source, light-weight password manager with auto-type, browser and plugin support.
 - [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
 
 ### Knowledge Management
