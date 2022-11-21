@@ -121,4 +121,4 @@
 ### Screen Capture
 
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
-- [Replayable](https://replayable.io) - Dashcam for desktop. Remember everything that happens on your desktop.
+- [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
