@@ -13,7 +13,7 @@
   - [Task Automation](#task-automation)
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
-  - [Miscellaneous](#miscellaneous)
+  - [Screen Capture](#screen-capture)
 
 ## Websites
 
