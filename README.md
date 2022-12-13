@@ -84,6 +84,7 @@
 - [Trello](https://trello.com) - Kanban method task board.
 - [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
+- [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 
 ### Habit Trackers
 
