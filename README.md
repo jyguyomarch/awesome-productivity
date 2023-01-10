@@ -70,7 +70,6 @@
 - [KanbanFlow](https://kanbanflow.com) - Kanban method task board with Pomodoro technique.
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
-- [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 - [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
@@ -86,6 +85,7 @@
 - [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
+- [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
 ### Habit Trackers
 
