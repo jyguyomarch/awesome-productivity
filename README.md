@@ -32,7 +32,7 @@
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - Deep work is the ability to focus without distraction on a cognitively demanding task.
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) - A very simple and efficient time-management method.
-- [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
+- [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
 
@@ -92,7 +92,7 @@
 - [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called _HabitRPG_).
-- [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
+- [HabitBull](https://www.habitbull.com/) - Premium habit tracker.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 
@@ -116,10 +116,9 @@
 
 ### Knowledge Management
 
-- [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
-- [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden. 
+- [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
 
 ### Screen Capture
 
