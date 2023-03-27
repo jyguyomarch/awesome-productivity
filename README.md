@@ -39,6 +39,7 @@
 ### File Management
 
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
+- [Clipboard](https://getclipboard.app) - Easy-to-use, local solution for saving files, folders or text like a scratchpad.
 - [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) - Cloud storage solution deeply integrated in the Google ecosystem.
 - [Mega](https://mega.nz/) - A very generous (50G from the get go) and highly secure cloud storage solution.
