@@ -46,6 +46,7 @@
 - [Nextcloud](https://nextcloud.com) - The self-hosted productivity platform that keeps you in control.
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
+- [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
 ### Note Management
 
