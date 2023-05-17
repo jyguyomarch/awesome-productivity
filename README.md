@@ -91,13 +91,13 @@
 
 ### Habit Trackers
 
-- [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 - [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](https://www.habitbull.com/) - Premium habit tracker.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
+- [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
 
 ### Task Automation
 
