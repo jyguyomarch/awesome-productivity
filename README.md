@@ -105,6 +105,7 @@
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
 - [n8n](https://n8n.io) - Open-source workflow automation for connecting web services with an option to self-host.
+- [Nekton.ai](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language. Nekton will convert those steps to code and run them in the cloud.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
