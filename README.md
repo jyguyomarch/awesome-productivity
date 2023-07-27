@@ -112,6 +112,7 @@
 
 ### Password Manager
 
+- [1Password](https://1password.com/) - Password manager developed by AgileBits Inc. It supports multiple platforms such as iOS, Android, Windows, Linux, and macOS.
 - [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
 - [KeePass](https://keepass.info/) - A free, open source, light-weight password manager with auto-type, browser and plugin support.
 - [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
