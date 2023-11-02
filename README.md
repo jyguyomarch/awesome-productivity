@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Agenda Hero](https://agendahero.com) - Powerful collaborative schedule management for families, groups, and teams with custom text message reminders to alleviate cognitive load. Bonus tool: [convert text into an event invite](https://agendahero.com/magic).
 
 ### Habit Trackers
 
