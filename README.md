@@ -14,6 +14,7 @@
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Screen Capture](#screen-capture)
+  - [Time Management](#time-management)
 
 ## Websites
 
@@ -128,3 +129,10 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+### Time Management
+
+- [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices. It is open source, privacy-first and cross-platform.
+- [Toggl Track](https://toggl.com/track/) - Toggl Track is a popular time tracking tool and productivity software. It helps individuals and teams track their time spent on different tasks and projects. It's widely used by freelancers, remote workers and small businesses.
+- [BlockSite](https://blocksite.co/) - BlockSite is a browser extension and mobile app designed to help users increase productivity blocking or limiting access to specific websites.
+- [Simple Time Tracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple and open source app that helps track how much time you spend on all the useless activities in the world.
