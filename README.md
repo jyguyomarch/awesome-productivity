@@ -54,6 +54,7 @@
 - [Google Keep](https://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 - [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
+- [logswise-cli](https://k61b.github.io/logswise-cli/) - AI-powered command-line note-taking, intelligent suggestions and enterprise-grade personalization.
 - [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 - [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 - [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
