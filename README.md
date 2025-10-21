@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Tenzu](https://tenzu.net/) - Lightweight project management tool for agile teams. Can be self-hosted, otherwise the SaaS relies on freely-given contribution only, with no features paywall.
 
 ### Habit Trackers
 
