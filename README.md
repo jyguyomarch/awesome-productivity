@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [dayStoic.com](https://daystoic.com/) - dayStoic.com makes practicing Stoicism part of your daily routine. Each day you’ll receive a timeless Stoic quote, along with space to reflect - privately, publicly, or with the help of AI if you need inspiration.
 
 ## Books
 
