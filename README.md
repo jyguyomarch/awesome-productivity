@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [reflectScore.com](https://reflectscore.com/) - Take scientifically based self-tests and assessments online. From mental health to lifestyle and personality, reflectScore.com gives you instant insights and detailed results.
 
 ## Books
 
