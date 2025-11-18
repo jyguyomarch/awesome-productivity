@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [CleanUpTxt](https://cleanuptxt.com) - fast and privacy friendly text cleaning tools that save time when editing, writing and formatting text.
 
 ### Task Management
 
