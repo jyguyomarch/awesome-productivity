@@ -128,3 +128,5 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+- [PageStash](https://pagestash.app/) — Capture full web pages (screenshots + HTML + text) and organize them with notes, tags, and visual graphs. 
+
