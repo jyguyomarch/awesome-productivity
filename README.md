@@ -28,7 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
-
+- [PickTheTool](https://pickthetool.com/) - Neutral pickers and comparisons for choosing productivity tools.
 ## Books
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - Deep work is the ability to focus without distraction on a cognitively demanding task.
