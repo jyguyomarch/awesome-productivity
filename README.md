@@ -125,6 +125,7 @@
 
 ### Screen Capture
 
-- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
-- [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+- [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local screen and mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries.
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
