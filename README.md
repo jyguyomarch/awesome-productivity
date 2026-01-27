@@ -47,6 +47,7 @@
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
+- [renamed.to](https://www.renamed.to) - AI-powered file renaming and organization tool that uses OCR and natural language processing to intelligently rename and organize files in bulk.
 
 ### Note Management
 
