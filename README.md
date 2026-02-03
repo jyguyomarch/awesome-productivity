@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [ADHD Picks](https://adhdpicks.com/) - Curated directory of 201 apps for ADHD brains, with "why it works" explanations and a quiz to find your productivity type.
 
 ## Books
 
