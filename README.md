@@ -47,6 +47,7 @@
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
+- [FilesDesk](https://filesdesk.app/) - AI file renaming app for organizing files quickly and accurately.
 
 ### Note Management
 
