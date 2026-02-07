@@ -10,6 +10,7 @@
   - [Note Management](#note-management)
   - [Task Management](#task-management)
   - [Habit Trackers](#habit-trackers)
+  - [Focus Music & Audio](#focus-music--audio)
   - [Task Automation](#task-automation)
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
@@ -98,6 +99,13 @@
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 - [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
+
+### Focus Music & Audio
+
+- [Brain.fm](https://www.brain.fm/) - AI-generated music designed to enhance focus, using auditory neuroscience.
+- [Endel](https://endel.io/) - Personalized soundscapes that adapt to time of day, weather, and activity.
+- [Noisli](https://www.noisli.com/) - Background noise mixer for focus and relaxation.
+- [Omix](https://www.omix.app/) - Adaptive focus music that responds to keyboard and mouse activity in real-time.
 
 ### Task Automation
 
