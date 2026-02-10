@@ -59,6 +59,7 @@
 - [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+- [Stik](https://stik.ink) - Instant thought capture for macOS. Press a global hotkey, a post-it note appears, type and close. Notes stored as plain markdown files.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
 
