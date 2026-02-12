@@ -63,6 +63,7 @@
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
 
 ### Task Management
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription for 12 dialects.
 
 - [Airtable](https://airtable.com/) - Mix of spreadsheet and database to help organize work.
 - [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
@@ -128,3 +129,6 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
