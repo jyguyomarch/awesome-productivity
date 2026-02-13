@@ -108,6 +108,7 @@
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
+- [Taskade MCP Server](https://github.com/taskade/mcp) - AI-powered productivity and automation platform with 62+ tools for connecting to any AI assistant via Model Context Protocol (MCP), featuring real-time collaboration, project management, and AI agents.
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
 
 ### Password Manager
