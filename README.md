@@ -21,6 +21,7 @@
 - [Advanced GTD with Remember The Milk](https://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
 - [Inbox Zero](https://www.43folders.com/izero) - Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
 - [Lifehacker](https://lifehacker.com/) - The go-to blog for tips, tricks, and downloads for getting things done.
+- [NexTool](https://nextool.app/free-tools/) - 231+ free online productivity tools including Pomodoro timer, notepad, whiteboard, typing test, unit converters, calculators, and developer utilities. Works offline, no signup.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - Slice your tasks in 25 minute packages and get more done in less time.
 - [r/Productivity](https://www.reddit.com/r/productivity/) - Productivity subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](https://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - A little trick that has been keeping my desktop clean for years now.
