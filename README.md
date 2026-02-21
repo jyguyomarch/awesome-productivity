@@ -101,6 +101,8 @@
 
 ### Task Automation
 
+- [AI Audit Tool](https://openclawapp.netlify.app/ai-audit/) - Interactive diagnostic tool that calculates ROI from AI automation based on your tasks and time spent. Provides personalized automation recommendations.
+- [AI Tools Comparison Matrix](https://openclawapp.netlify.app/ai-tools-comparison/) - Interactive comparison of AI automation tools (ChatGPT, Zapier, Make, n8n, Claude, OpenClaw) across 25+ features including pricing, capabilities, and use cases.
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
