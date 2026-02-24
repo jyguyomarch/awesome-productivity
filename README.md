@@ -101,6 +101,7 @@
 
 ### Task Automation
 
+- [AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/) - Managed AI assistant that autonomously executes business tasks - handles calls, emails, reports, bookings, and research. Integrates with Gmail, CRM, calendar, and phone systems, learns your workflows, runs 24/7 via Telegram. £299/mo.
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
