@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [KeepRule](https://keeprule.com/) - A decision-making platform with 1,300+ principles from legendary investors and thinkers, organized into 95+ real-world scenarios to help you make better decisions under pressure.
 
 ## Books
 
