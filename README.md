@@ -6,6 +6,7 @@
 - [Websites](#websites)
 - [Books](#books)
 - [Tools and Apps](#tools-and-apps)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
