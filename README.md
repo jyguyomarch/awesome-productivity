@@ -73,6 +73,7 @@
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 - [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
+- [PeakFlow](https://getpeakflow.pro) - Free, open-source Windows productivity suite with screen dimming, clipboard manager, volume mixer, Pomodoro timer, and meeting alerts. Built with Electron.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
