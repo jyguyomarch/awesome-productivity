@@ -14,6 +14,7 @@
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Screen Capture](#screen-capture)
+  - [Writing](#writing)
 
 ## Websites
 
@@ -128,3 +129,7 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+### Writing
+
+- [CiteMe](https://citeme.app) - AI-powered academic citation generator that searches 11+ databases and formats in 40+ styles including APA, ABNT, MLA and Chicago. Available as a web app, Chrome extension, Google Docs add-on and Word add-in.
