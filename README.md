@@ -72,6 +72,7 @@
 - [KanbanFlow](https://kanbanflow.com) - Kanban method task board with Pomodoro technique.
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
+- [InvoiceChaser](https://invoicechaser-app.surge.sh) - Automated invoice follow-up sequences for freelancers. Escalates from friendly to firm so you get paid without the awkward manual chasers.
 - [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
@@ -79,6 +80,7 @@
 - [Taskwarrior](https://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 - [Timely](https://memory.ai/timely) - Automatic time tracking software. Get a flawless digital record of all project and team time, all without the hassle of manual timers and note taking.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
+- [ScopeShield](https://scopecreep-app.surge.sh) - Scope creep tracker for freelancers. Log deliverables, track client change requests, and generate change orders automatically.
 - [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 - [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
