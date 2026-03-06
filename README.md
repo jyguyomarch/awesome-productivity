@@ -19,6 +19,7 @@
 
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
 - [Advanced GTD with Remember The Milk](https://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
+- [BeginThings](https://beginthings.com) - A suite of 96+ free, browser-based productivity tools including a Pomodoro timer, invoice builder, JSON formatter, image compressor, and more. No login or signup required.
 - [Inbox Zero](https://www.43folders.com/izero) - Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
 - [Lifehacker](https://lifehacker.com/) - The go-to blog for tips, tricks, and downloads for getting things done.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - Slice your tasks in 25 minute packages and get more done in less time.
