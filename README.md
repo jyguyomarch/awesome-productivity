@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control.
 
 ### Habit Trackers
 
