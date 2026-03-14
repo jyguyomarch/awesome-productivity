@@ -6,6 +6,7 @@
 - [Websites](#websites)
 - [Books](#books)
 - [Tools and Apps](#tools-and-apps)
+  - [Communication & Email](#communication--email)
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
@@ -36,6 +37,10 @@
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
+
+### Communication & Email
+
+- [HeyRobyn](https://heyrobyn.ai) - Native macOS unified inbox for email, Slack, and GitHub. Privacy-first with all data on-device.
 
 ### File Management
 
