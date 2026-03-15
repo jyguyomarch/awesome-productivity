@@ -37,6 +37,9 @@
 
 ## Tools and Apps
 
+### Online Dev Tools
+- [ToolArks](https://toolarks.com/) - Comprehensive, privacy-first online toolset for developers including JSON formatter/validator, JSON compare/diff, YAML editor, text/code diff tools, cron generator, time zone converter, and more. 100% client-side processing (no data uploaded).
+
 ### File Management
 
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
