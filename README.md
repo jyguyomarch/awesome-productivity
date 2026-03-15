@@ -46,6 +46,8 @@
 - [Nextcloud](https://nextcloud.com) - The self-hosted productivity platform that keeps you in control.
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
+- [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing client-side via WebAssembly. No account required.
+- [Vizua](https://vizua.io/) - Free browser-based image tools — compress, resize, convert (WebP, AVIF), remove background, upscale, OCR. All processing client-side. No account required.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
 ### Note Management
