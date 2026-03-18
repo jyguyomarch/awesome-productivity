@@ -75,6 +75,7 @@
 - [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
+- [Super Productivity](https://super-productivity.com/) - Cross-platform todo list app with integrated timeboxing, time tracking, and integrations for Jira, GitHub, and GitLab.
 - [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
 - [Taskwarrior](https://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 - [Timely](https://memory.ai/timely) - Automatic time tracking software. Get a flawless digital record of all project and team time, all without the hassle of manual timers and note taking.
