@@ -50,6 +50,8 @@
 
 ### Note Management
 
+- [DailyVox](https://getdailyvox.com) - Free AI voice diary for iOS with on-device transcription, mood tracking, and Digital Twin. Privacy-first — no cloud, no accounts. ([Source](https://github.com/intrepidkarthi/dailyvox))
+
 - [Evernote](https://evernote.com/) - Evernote can basically become your second brain and remember everything for you.
 - [Google Keep](https://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
