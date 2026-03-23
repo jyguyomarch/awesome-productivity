@@ -47,6 +47,7 @@
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
+- [SPAN Finder](https://github.com/LumiBearStudio/SpanFinder) - A macOS Finder-style Miller Columns file explorer for Windows with multi-tab, split view, and 10 themes. [![Open-Source Software](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/LumiBearStudio/SpanFinder)
 
 ### Note Management
 
