@@ -81,6 +81,7 @@
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 - [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
+- [LystBot](https://lystbot.com) - AI-powered list management. Create grocery lists, todos, and packing lists through your AI agent. Share lists with family. Free iOS + Android app. [Open Source](https://github.com/TourAround/LystBot).
 - [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
 - [Topydo](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) - Kanban method task board.
