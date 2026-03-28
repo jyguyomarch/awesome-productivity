@@ -14,6 +14,7 @@
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Screen Capture](#screen-capture)
+  - [Browser Extensions](#browser-extensions)
 
 ## Websites
 
@@ -128,3 +129,7 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+### Browser Extensions
+
+- [LinkClean](https://github.com/2gelbuy/linkclean) - Clean LinkedIn feed by hiding promoted posts, suggested content, polls, and reshares. Features 20+ languages and privacy-first design. Available on [Chrome Web Store](https://chromewebstore.google.com/detail/linkclean/ipdckibncofmlnoaajkdhnbclbpgppdg).
