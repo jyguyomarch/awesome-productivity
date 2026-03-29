@@ -87,6 +87,7 @@
 - [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
+- [Daybrick](https://daybrick.io) - Minimal daily task manager with duties, habits, streaks, and multi-day paths. Build your day, brick by brick.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
 ### Habit Trackers
