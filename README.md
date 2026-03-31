@@ -47,6 +47,7 @@
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
+- [Beetroot](https://github.com/mnardit/beetroot-releases) - Clipboard manager for Windows with AI-powered text transforms, OCR, fuzzy search, and 26 languages.
 
 ### Note Management
 
