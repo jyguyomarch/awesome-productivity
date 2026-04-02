@@ -14,6 +14,7 @@
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Screen Capture](#screen-capture)
+  - [Voice and Dictation](#voice-and-dictation)
 
 ## Websites
 
@@ -128,3 +129,7 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+### Voice and Dictation
+
+- [Kviskr](https://kviskr.no) - A macOS menu bar app for speech-to-text. Hold a hotkey, speak, and the text is pasted instantly. Uses local AI processing with whisper.cpp for privacy. Free, macOS 14+.
