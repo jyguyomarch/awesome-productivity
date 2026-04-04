@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [Anytools](https://anytools.io/) - Free collection of 89+ browser-based productivity tools: calculators, converters, formatters, generators, and more. No account required, all processing runs client-side in your browser.
 
 ## Books
 
