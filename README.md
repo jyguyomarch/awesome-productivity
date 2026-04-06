@@ -1,6 +1,7 @@
 # Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of delightful productivity resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for productivity workflow orchestration, automated task management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Websites](#websites)
