@@ -117,6 +117,10 @@
 - [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
 - [NordPass](https://nordpass.com/) - A freemium password manager created by the team from NordVPN. Store unlimited passwords and access them from anywhere with apps on all platforms.
 
+### AI Skills & Personas
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for discovering, sharing, and selling AI agent skills and personas built on OpenClaw.
+
 ### Knowledge Management
 
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
