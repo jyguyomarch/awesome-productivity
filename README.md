@@ -101,6 +101,7 @@
 
 ### Task Automation
 
+- [Appy Pie Automate](https://appypieautomate.ai) - No-code workflow automation platform connecting 1,000+ apps including Gmail, Slack, Shopify, HubSpot, and Salesforce to automate repetitive tasks without writing code.
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
