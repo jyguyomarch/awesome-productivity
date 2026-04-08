@@ -108,6 +108,8 @@
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source prospects from 450M+ contacts, launch email and LinkedIn campaigns, manage conversations. JSON output, agent-native.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring for sales teams. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output for agent pipelines.
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
 
 ### Password Manager
