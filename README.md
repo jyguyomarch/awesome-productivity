@@ -109,6 +109,7 @@
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+- [BulkPublish](https://www.bulkpublish.com) - Social media scheduling for 11 platforms — compose once, publish everywhere. Offers a REST API, SDKs, and integrations with Zapier, n8n, Make, and IFTTT.
 
 ### Password Manager
 
