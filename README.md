@@ -48,6 +48,11 @@
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
+### Developer Utilities
+
+- [Formatho Tools](https://formatho.com/Tools) - 100+ privacy-first developer utilities. All processing client-side, no signup required.
+
+
 ### Note Management
 
 - [Evernote](https://evernote.com/) - Evernote can basically become your second brain and remember everything for you.
