@@ -109,6 +109,8 @@
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI-powered background code analysis agent with 60+ cognitive modules, infinite memory, and self-evolving intelligence. ([npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain))
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Universal skill/slash-command manager for AI coding assistants. Install, manage, and share custom skills across Claude Code, Cursor, Windsurf, and more. ([npm](https://www.npmjs.com/package/omni-skills-forge))
 
 ### Password Manager
 
