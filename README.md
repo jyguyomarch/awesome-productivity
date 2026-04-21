@@ -6,7 +6,7 @@
 - [Websites](#websites)
 - [Books](#books)
 - [Tools and Apps](#tools-and-apps)
-  - [File Management](#file-management)
+  - [File Management](#file-management)h
   - [Note Management](#note-management)
   - [Task Management](#task-management)
   - [Habit Trackers](#habit-trackers)
@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalized 7-day menus and smart shopping lists.
 
 ### Habit Trackers
 
