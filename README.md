@@ -6,7 +6,7 @@
 - [Websites](#websites)
 - [Books](#books)
 - [Tools and Apps](#tools-and-apps)
-  - [File Management](#file-management)h
+  - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
   - [Habit Trackers](#habit-trackers)
