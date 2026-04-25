@@ -70,6 +70,7 @@
 - [GitHub Projects](https://github.com/features/project-management/) - A lesser known feature of GitHub, makes it easy to tie your project management process to your code.
 - [Hitask](https://hitask.com) - Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) - Kanban method task board with Pomodoro technique.
+- [linear-cli](https://github.com/phnx-labs/linear-cli) - Single-file Python CLI for managing Linear issues from the terminal. Zero dependencies, MIT licensed, and designed for both humans and AI coding agents.
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 - [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
