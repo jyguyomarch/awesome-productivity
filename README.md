@@ -28,6 +28,8 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [Focus Game](https://focus-game.org/) - A simple browser-based focus training game designed to improve concentration through short interactive sessions.
+- [Schulte Table](https://schulte-table.org/) - Web-based cognitive training tool for visual scanning, attention, and speed reading.
 
 ## Books
 
