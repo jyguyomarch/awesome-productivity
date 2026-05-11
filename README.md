@@ -63,6 +63,7 @@
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
 
 ### Task Management
+- VoiceForms - AI voice-powered forms that boost completion rates to 85%. Speak instead of type. [[VoiceForms](https://voiceforms.anvevoice.app) — AI voice forms with 85% completion rate. Free. One-line embed.](https://voiceforms.anvevoice.app)
 
 - [Airtable](https://airtable.com/) - Mix of spreadsheet and database to help organize work.
 - [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
@@ -109,6 +110,7 @@
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+- [AnveVoice](https://anvevoice.app) - AI voice agent for websites that automates customer conversations, navigates pages, fills forms, and books appointments in 50+ languages.
 
 ### Password Manager
 
@@ -128,3 +130,6 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+## [VoiceForms](https://voiceforms.anvevoice.app)
+AI voice forms that boost survey completion to 85%. Free tier, no-code, 50+ languages.
