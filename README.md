@@ -10,6 +10,7 @@
   - [Note Management](#note-management)
   - [Task Management](#task-management)
   - [Habit Trackers](#habit-trackers)
+  - [Finance & Tax](#finance--tax)
   - [Task Automation](#task-automation)
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
@@ -98,6 +99,10 @@
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 - [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
+
+### Finance & Tax
+
+- [ReceiptClaimer](https://receiptclaimer.com.au) - AI-powered tax deduction tracking and audit reconciliation platform for Australian sole traders and landlords. Automate expense tracking and maximize tax returns with OCR and AI categorization.
 
 ### Task Automation
 
