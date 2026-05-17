@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+  - - [KRNL0](https://github.com/theMindDeveloper/KRNL0) - Productivity canvas where todos, habits, pomodoro and calendar are nodes you connect. Local JSON, Claude Code native.
 
 ### Habit Trackers
 
