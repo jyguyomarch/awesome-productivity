@@ -14,6 +14,7 @@
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Screen Capture](#screen-capture)
+  - [Distraction Management](#distraction-management)
 
 ## Websites
 
@@ -128,3 +129,8 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+### Distraction Management
+
+- [Good Friction for LinkedIn](https://github.com/tabrez-syed/goodfriction-linkedin-extension) - Returns the moment of choice to the LinkedIn feed — a session timer and pagination break ask if you want to keep going; a nudge, not a blocker.
+- [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - Removes the news feed entirely from social sites; replaces it with a quote.
