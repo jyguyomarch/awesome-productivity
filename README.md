@@ -6,6 +6,7 @@
 - [Websites](#websites)
 - [Books](#books)
 - [Tools and Apps](#tools-and-apps)
+-  [Wenjiang](https://github.com/Amerstrong/wenjiang-markdown) - Markdown to Word converter with perfect code block formatting. Ideal for ChatGPT/Claude content export and technical documentation.
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
