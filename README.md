@@ -1,4 +1,4 @@
-# Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of delightful productivity resources.
 
 ## Contents
@@ -109,6 +109,8 @@
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+
+- [URL Environment Switcher](https://github.com/ttcd77/url-switcher) - Chrome extension that lets developers toggle between localhost, staging, and production URLs in one click.
 
 ### Password Manager
 
