@@ -36,6 +36,7 @@
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students. Google Classroom sync, Gemini-powered study plans, SRS flashcards, AI quiz generator, GPA predictor, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 
 ### File Management
 
