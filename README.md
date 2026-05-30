@@ -90,6 +90,7 @@
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
 ### Habit Trackers
+- [Trider](https://myhabits.in) - AI-powered habit tracker with smart reminders, streak analytics, and personalized insights. ([Android](https://play.google.com/store/apps/details?id=dev.trider.app))
 
 - [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
