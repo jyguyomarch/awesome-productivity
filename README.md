@@ -91,6 +91,7 @@
 
 ### Habit Trackers
 
+- [Shiori](https://shiori-v1.vercel.app) - Open-source AI study companion with daily habit tracking, SRS flashcards, assignment management, GPA prediction, and Pomodoro focus mode. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 - [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called _HabitRPG_).
