@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [Paperloom](https://apps.apple.com/us/app/paperloom/id6777606993?mt=12) - A private Markdown notes and writing app for Mac with Scratch capture, local autocomplete, optional iCloud sync, and agent-safe CLI/MCP automation.
 
 ### Task Management
 
