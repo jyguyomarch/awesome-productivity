@@ -28,6 +28,8 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [Extended IQ & Cognitive Bias Challenge](https://ordinarymantrying.com/tools/iq-challenge-extended.html) - 20 interactive questions testing cognitive biases that derail decision-making: anchoring, sunk cost fallacy, gambler's fallacy, conjunction fallacy, and classic CRT problems. Sharpen thinking patterns that directly affect productivity. Free, no login.
+- [Historical Decision Simulators](https://ordinarymantrying.com/tools/) - Browser-based decision games where you face the same choices as Gandhi, Lincoln, Mandela, Buffett, Jobs, and others — blind — then see what they actually did. Builds intuition for high-stakes decisions. Free, no login.
 
 ## Books
 
