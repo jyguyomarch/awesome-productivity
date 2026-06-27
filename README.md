@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [NoteRich](https://noterich.com) - AI-powered notes with built-in RAG search. Import documents, ask questions in natural language, and find anything across your notes. 41 languages. Free tier.
 
 ### Task Management
 
