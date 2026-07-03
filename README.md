@@ -36,6 +36,7 @@
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
+- [llm-box](https://github.com/alib8b8/llm-box) - Terminal-first AI workflow engine with TUI for automating LLM-powered tasks.
 
 ### File Management
 
