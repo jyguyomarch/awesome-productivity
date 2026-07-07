@@ -50,7 +50,7 @@
 
 ### Note Management
 
-- [Evernote](https://evernote.com/) - Evernote can basically become your second brain and remember everything for you.
+- [Evernote](https://evernote.com/) - Can basically become your second brain and remember everything for you.
 - [Google Keep](https://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 - [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [OATS](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline mode.
 
 ### Task Management
 
@@ -121,10 +122,10 @@
 
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
-- [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
+- [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
 
 ### Screen Capture
 
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
-- [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+- [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on macOS, with built-in annotation and text recognition.
