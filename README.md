@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [Brain Brutalism](https://brainbrutalism.com/) - A productivity manifesto for CTOs and developers, with interactive tools to audit your tool stack and calculate its cost in focus.
 
 ## Books
 
