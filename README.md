@@ -14,6 +14,7 @@
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Screen Capture](#screen-capture)
+  - [AI Tools](#ai-tools)
 
 ## Websites
 
@@ -128,3 +129,7 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+### AI Tools
+
+- [usage](https://github.com/aqua5230/usage) - macOS menu bar app that tracks Claude Code, Codex, and Antigravity quota, tokens, and cost so you don't burn through your AI budget mid-task. Reads local session logs only.
