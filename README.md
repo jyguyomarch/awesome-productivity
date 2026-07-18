@@ -123,6 +123,10 @@
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 - [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
 
+### Meeting Tools
+
+- [Standup Timer](https://ordinarymantrying.com/tools/standup-timer.html) - Free browser-based timer for daily standup meetings. Supports per-person timing, configurable time limits, and alerts. Works in any browser, no install or account required.
+
 ### Screen Capture
 
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
