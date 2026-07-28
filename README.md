@@ -45,6 +45,7 @@
 - [Mega](https://mega.nz/) - A very generous (50G from the get go) and highly secure cloud storage solution.
 - [Nextcloud](https://nextcloud.com) - The self-hosted productivity platform that keeps you in control.
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
+- [PDF Mavericks](https://www.pdfmavericks.com/compress) - Compress, merge, split and convert PDFs entirely in the browser; files never leave your device.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
