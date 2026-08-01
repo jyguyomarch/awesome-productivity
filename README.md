@@ -37,6 +37,11 @@
 
 ## Tools and Apps
 
+
+### Decision Making
+
+- [DAUDIT](https://www.daudit.net) - A decision-context engine that audits your thinking across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before you commit to irreversible decisions.
+
 ### File Management
 
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
