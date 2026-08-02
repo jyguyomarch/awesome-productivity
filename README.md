@@ -74,6 +74,7 @@
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 - [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+- [Pomodoro Studio](https://github.com/1himanshu1804442/pomodoro-puzzle-studio) - High-performance gamified focus timer built with React 19 and Vanilla CSS by [@1himanshu1804442](https://github.com/1himanshu1804442) that rewards study sessions with HD photographic wallpaper puzzle unlocking and 6-channel acoustic lofi radio loops.
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
 - [Taskwarrior](https://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
