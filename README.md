@@ -98,6 +98,7 @@
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 - [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - iPhone screen time blocker for cutting doomscrolling with on-device blocking, focus rules, and a daily streak.
 
 ### Task Automation
 
