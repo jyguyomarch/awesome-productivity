@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace with notes, tasks and AI chat stored as plain markdown files.
 
 ### Task Management
 
