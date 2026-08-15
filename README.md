@@ -98,6 +98,7 @@
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 - [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
+- [Atomic Productivity](https://atomicproductivity.com/) - Free browser-based suite of productivity tools including a habit tracker, Pomodoro timer, and sleep calculator, with no signup required.
 
 ### Task Automation
 
