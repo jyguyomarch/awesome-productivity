@@ -6,6 +6,7 @@
 - [Websites](#websites)
 - [Books](#books)
 - [Tools and Apps](#tools-and-apps)
+  - [Developer Workspaces](#developer-workspaces)
   - [File Management](#file-management)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
@@ -36,6 +37,10 @@
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
+
+### Developer Workspaces
+
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Local-first cross-platform desktop workspace for managing developer projects, commands, and environments.
 
 ### File Management
 
