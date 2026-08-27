@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Shift Roster Pay](https://shiftrosterpay.com/) - The ultimate 100% private shift planning toolkit that instantly calculates complex rosters, night/holiday surcharges and expected net pay entirely in your browser.
 
 ### Habit Trackers
 
