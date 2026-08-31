@@ -89,7 +89,8 @@
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
-### Habit Trackers
+- [Korelyy](https://korelyy.com/) - 110+ free browser-based productivity tools (image converter, emoji mixer, JSON formatter, color picker, meme generator, workflows, life timeline, password generator, etc.). 6 languages, no login, privacy-first, runs locally.
+  ### Habit Trackers
 
 - [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
@@ -128,3 +129,5 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+
