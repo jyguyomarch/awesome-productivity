@@ -60,6 +60,7 @@
 - [Preserver](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
+- [MDFK](https://mdfk.app/) - A free Markdown viewer for macOS and Windows with Mermaid diagrams, LaTeX math, and code highlighting. Works offline with no account required.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
 
 ### Task Management
