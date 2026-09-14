@@ -16,6 +16,8 @@
   - [Screen Capture](#screen-capture)
 
 ## Websites
+- [The Mindful Dev 2027]([https://etsy.com](https://www.etsy.com/listing/4570733807/the-mindful-dev-a-2027-human-operating?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=mindful+dev&ref=producthunt&dd=1&content_source=3f138cf0-b3f2-4848-8226-2d86ad4c659b%253ALTce656f1a922df3ececa165f64a431638a02b0184&organic_search_click=1&logging_key=3f138cf0-b3f2-4848-8226-2d86ad4c659b%3ALTce656f1a922df3ececa165f64a431638a02b0184) - An interactive, fillable A5 Adobe PDF planner built using organizational psychology to manage cognitive load and prevent developer burnout.
+
 
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
 - [Advanced GTD with Remember The Milk](https://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
