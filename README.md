@@ -128,4 +128,4 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
-- [screenpipe](https://github.com/screenpipe/screenpipe) - Open-source, local-first 24/7 screen and audio recording you can search, recall, and pipe into AI.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available screen and audio capture with searchable history and MCP context for AI assistants.
