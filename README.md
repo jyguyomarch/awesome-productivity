@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [Simple Memo](https://simplememofast.com/) - Quick capture app for iPhone that sends a typed or spoken note to your own email inbox and appends it to an Obsidian vault.
 
 ### Task Management
 
