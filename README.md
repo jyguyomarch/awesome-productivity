@@ -37,6 +37,8 @@
 
 ## Tools and Apps
 
+- [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
+
 ### File Management
 
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
