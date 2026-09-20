@@ -29,6 +29,9 @@
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
 
+- [NextReset](https://nextreset.ai/) - Track source-linked Codex reset announcements and save a personal reset timer locally.
+
+
 ## Books
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - Deep work is the ability to focus without distraction on a cognitively demanding task.
