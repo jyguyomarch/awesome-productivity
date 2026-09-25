@@ -37,6 +37,10 @@
 
 ## Tools and Apps
 
+### Business Management
+
+- [BusinessOS](https://businessos.biz) - All-in-one business management: invoicing, expenses, cash flow, customers. Offline-first, encrypted, free during early access.
+
 ### File Management
 
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
