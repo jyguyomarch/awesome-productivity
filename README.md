@@ -49,7 +49,7 @@
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
 ### Note Management
-
+- [Brink](https://brinknotch.site) - Free, open-source macOS notch for your Notion pages and tasks: peek, tick, capture and edit without opening Notion.
 - [Evernote](https://evernote.com/) - Evernote can basically become your second brain and remember everything for you.
 - [Google Keep](https://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
