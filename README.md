@@ -128,3 +128,4 @@
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+- [OffLadder](https://offladder.com) - Free career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+.
