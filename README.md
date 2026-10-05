@@ -91,6 +91,7 @@
 
 ### Habit Trackers
 
+- [HabitStreakProBot](https://t.me/HabitStreakProBot) - A free Telegram mini app habit tracker with daily check-ins, streaks and reminders, plus a public guide library.
 - [Emoji Log](https://emojilog.rosano.ca) -  Calm, emoji-based tracker for arbitrary things that doesn't use streaks.
 - [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called _HabitRPG_).
