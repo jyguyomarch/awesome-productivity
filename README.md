@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [PomoMons](https://pomomons.io) - A Pomodoro timer that's also a creature collector: catch a monster after every focus session and build your collection. Free, installable, works offline.
 
 ### Habit Trackers
 
