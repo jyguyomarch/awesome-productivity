@@ -122,6 +122,7 @@
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 - [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
+- [Orano](https://oranoai.com/) - An AI app that turns saved Reels, videos, and links into structured projects with summaries, action plans, and learning roadmaps.
 
 ### Screen Capture
 
