@@ -55,6 +55,7 @@
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 - [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 - [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
+- [TypeFire](https://typefire.ai) - Free Markdown notes on a folder you own (an Obsidian vault included), with a text expander and clipboard history beside them. Mac app and Chrome extension.
 - [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 - [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
