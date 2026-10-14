@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Front of Mind](https://keepfrontofmind.com) - Floating time tracker for Mac and Windows that writes the time spent on Linear, Asana or monday.com tasks back to each task.
 
 ### Habit Trackers
 
