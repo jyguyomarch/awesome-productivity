@@ -47,6 +47,7 @@
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 - [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
+- [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for reading Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 
 ### Note Management
 
