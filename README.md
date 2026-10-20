@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [KeepLocate](https://keeplocate.dimustech.net/) - Offline-first notes and checklists with multi-location geofencing and two-way Google Tasks sync.
 
 ### Task Management
 
