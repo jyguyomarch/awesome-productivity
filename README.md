@@ -39,6 +39,8 @@
 
 ### File Management
 
+- [Tidify Excel & CSV Cleaner](https://tidify-app.netlify.app) - Free 100% client-side spreadsheet cleaner to remove duplicates, standardize dates/contacts, and sanitize messy Excel (.xlsx) & CSV files locally in the browser.
+
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
 - [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) - Cloud storage solution deeply integrated in the Google ecosystem.
