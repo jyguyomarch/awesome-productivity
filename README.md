@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [Simple Sticky Notes](https://simplestickynotes.xyz) (Chrome extension) - Pin persistent notes to web pages and use a flexible AI assistant to understand what you read, develop ideas, and work with your notes.
 
 ### Task Management
 
