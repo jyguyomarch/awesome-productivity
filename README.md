@@ -98,6 +98,7 @@
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 - [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android app blocker and focus tool with daily limits, sleep schedules, and a mandatory waiting period before relaxing rules or uninstalling.
 
 ### Task Automation
 
