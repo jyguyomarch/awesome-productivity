@@ -39,6 +39,8 @@
 
 ### File Management
 
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native macOS PDF reader where everything outside the active page freezes into frosted ice.
+
 - [Box](https://www.box.com) - Very good cloud storage solution for business customers.
 - [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) - Cloud storage solution deeply integrated in the Google ecosystem.
