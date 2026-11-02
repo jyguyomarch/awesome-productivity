@@ -67,6 +67,7 @@
 - [Airtable](https://airtable.com/) - Mix of spreadsheet and database to help organize work.
 - [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
 - [Any.do](https://www.any.do/) - Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](https://lifehacker.com/5924093/five-best-to-do-list-managers).
+- [Cockpit](https://yorben.me/#cockpit) - Unified daily productivity dashboard and HUD for macOS (Calendar, Mail, Notion, and tactile Day-Dial).
 - [GitHub Projects](https://github.com/features/project-management/) - A lesser known feature of GitHub, makes it easy to tie your project management process to your code.
 - [Hitask](https://hitask.com) - Easy Project and Task Management for Teams.
 - [KanbanFlow](https://kanbanflow.com) - Kanban method task board with Pomodoro technique.
