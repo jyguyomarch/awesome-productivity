@@ -122,6 +122,7 @@
 - [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 - [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
+- [OneMira AI](https://onemira.com/products/c1) - Standalone AI voice recorder (C1) and local context system that turns spoken meetings and calls into speaker-attributed Markdown notes, decisions, and a linked Local Wiki with [MCP integration](https://github.com/onemira-space/onemira-mcp) and no monthly subscription.
 
 ### Screen Capture
 
