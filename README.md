@@ -61,6 +61,7 @@
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 - [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
+- [Athena Reader](https://athena-reader.com/) - A free, offline-first EPUB & PDF reader for your own files: read aloud, take notes, ask AI with citations, sync across iPhone, iPad, Android, web and Windows.
 
 ### Task Management
 
