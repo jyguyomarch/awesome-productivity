@@ -36,6 +36,7 @@
 - [The 5 Choices](https://www.simonandschuster.com/books/The-5-Choices/Kory-Kogon/9781476711829) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimalist Now Playing widget for the empty corner beside the Mac Dock.
 
 ### File Management
 
