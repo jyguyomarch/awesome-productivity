@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Monthly Project Planner](https://github.com/isihussain/monthly-project-planner-a4) - Minimalist, ink-friendly printable A4 monthly project planner in pure HTML/CSS/JS with zero dependencies.
 
 ### Habit Trackers
 
