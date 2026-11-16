@@ -28,6 +28,7 @@
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 - [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
+- [HumanPen](https://humanpen.net/) - Document-level academic humanization, 12-language translation, condensation, citation format correction, and scoped research project support.
 
 ## Books
 
