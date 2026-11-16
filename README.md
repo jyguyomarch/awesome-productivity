@@ -51,6 +51,8 @@
 
 ### Note Management
 
+- [HumanPen](https://humanpen.net/) - Document-level AI humanize, translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects.
+
 - [Evernote](https://evernote.com/) - Evernote can basically become your second brain and remember everything for you.
 - [Google Keep](https://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
