@@ -132,4 +132,4 @@
 
 ### System Monitoring
 
-- [DockMagic](https://github.com/thanhdongnguyen/dockmagic) - A native macOS app that turns its Dock icon into an at-a-glance dashboard for system metrics, developer activity, and service usage.
+- [DockMagic](https://dockmagic.app) - A second, customizable widget Dock for macOS that sits beside the Apple Dock, with system stats, calendars, AI usage and everyday tools.
