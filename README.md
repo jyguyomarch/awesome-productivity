@@ -109,6 +109,7 @@
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+- [Open in AI Agent for Gmail](https://openinaiagent.com/) - Open-source browser extension that sends Gmail threads directly to ChatGPT, Claude, Gemini or desktop coding agents and triages unread mail without marking it read.
 
 ### Password Manager
 
