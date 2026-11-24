@@ -88,6 +88,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 - [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [Clockoli](https://github.com/Clockoli/clockoli) - Free, open-source time tracker for any task URL, with shared time records in your own GitHub repositories.
 
 ### Habit Trackers
 
